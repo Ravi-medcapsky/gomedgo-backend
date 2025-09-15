@@ -2,7 +2,7 @@ import express from "express";
 import session from "express-session";
 import authRoutes from "./routes/auth.routes.js";
 import providerPhotoRoutes from "./routes/providerPhoto.routes.js";
-import providerRoutes from "./routes/Provider.routes.js";
+import providerRoutes from "./routes/provider.routes.js";
 import providerAddressRoutes from "./routes/providerAddress.routes.js";
 import providerDocumentRoutes from "./routes/providerDocument.routes.js";
 import providerPaymentAssetsRoutes from "./routes/providerPaymentAssets.routes.js";
