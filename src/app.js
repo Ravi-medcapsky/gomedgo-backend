@@ -6,7 +6,7 @@ import providerRoutes from "./routes/provider.routes.js";
 import providerAddressRoutes from "./routes/providerAddress.routes.js";
 import providerDocumentRoutes from "./routes/providerDocument.routes.js";
 import providerPaymentAssetsRoutes from "./routes/providerPaymentAssets.routes.js";
-import providerStatusTrackingRoutes from "./routes/ProviderStatusTracking.routes.js";
+import providerStatusTrackingRoutes from "./routes/providerStatusTracking.routes.js";
 import messageToAdmineRoutes from "./routes/message.route.js";
 import providerWalletRoutes from "./routes/providerWallet.js";
 import appointment from "./routes/appointment.routes.js";
