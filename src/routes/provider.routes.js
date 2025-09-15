@@ -1,5 +1,5 @@
 import express from 'express';
-import * as providerController from '../controllers/providerController.js';
+import providerController from '../controllers/providerController.js';
 
 
 
